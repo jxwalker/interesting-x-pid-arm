@@ -1,0 +1,5 @@
+{
+  "title": "PID robot arm",
+  "date": "2026-10-05",
+  "description": "Watch a two-joint arm chase a looping target under live P, I and D gains — gravity sag, overshoot, and recovery included."
+}
